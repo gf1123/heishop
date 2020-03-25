@@ -1,0 +1,4 @@
+<view class="up_img_wrap">
+  <button type="primary">+</button>
+  <view class="imgs"></view>
+</view>

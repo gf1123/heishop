@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "searchInput":"/component/searchInput/searchInput",
+    "img":"/component/img/img"
+  },
+  "navigationBarTitleText": "黑马优购"
+
+}
